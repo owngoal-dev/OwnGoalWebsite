@@ -16,7 +16,7 @@ function havocPackage(name, slug) {
 function githubRepo(name, icon = null) {
   return {
     name,
-    href: `https://github.com/OwnGoalStudio/${name}`,
+    href: `https://github.com/owngoal-dev/${name}`,
     source: 'GitHub',
     icon,
   };

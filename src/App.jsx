@@ -125,7 +125,7 @@ export default function App() {
         <nav className="flex items-center gap-5 text-[13px] font-medium text-neutral-600 dark:text-neutral-300">
           <a
             className="no-underline transition hover:text-neutral-900 dark:hover:text-white"
-            href="https://github.com/OwnGoalStudio"
+            href="https://github.com/owngoal-dev"
             target="_blank"
             rel="noreferrer"
           >
@@ -176,7 +176,7 @@ export default function App() {
             <span aria-hidden="true" className="mx-2">
               ·
             </span>
-            <FooterLink href="https://github.com/OwnGoalStudio">GitHub</FooterLink>
+            <FooterLink href="https://github.com/owngoal-dev">GitHub</FooterLink>
             <span aria-hidden="true" className="mx-2">
               ·
             </span>
